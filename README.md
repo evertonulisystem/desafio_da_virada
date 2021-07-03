@@ -3,7 +3,8 @@ Planejamento de Testes objetivando fluxos principais e utilizando tecnicas do me
 Etapas que serão implementada:
 - Plano de Testes (L1 ao L11)
 - Evidências dos testes (Inicialmente com Gravador de Passos do Windows e posteriormento com Postman (exportar collections)
-- Simulação em java com webdriver
 - Linguagem Gherkin para melhor entendimento
 - Mapa Mental inicial
+- Uso do selenium IDE (automatizar cadastros e perfis)
+- Simulação em java com webdriver
 - Texto contendo detalhes do planejamento
