@@ -8,3 +8,4 @@ Etapas que serão implementada:
 - Uso do selenium IDE (automatizar cadastros e perfis)
 - Simulação em java com webdriver
 - Texto contendo detalhes do planejamento
+- Relato de bugs encontrados
